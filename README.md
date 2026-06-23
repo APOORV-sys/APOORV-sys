@@ -49,7 +49,7 @@ int main() {
 - 🏆 HackWiise National Finalist — **Top 30 / 2096 teams**
 - 🔭 Currently working on **AI-powered fraud detection** systems
 - 📚 NPTEL Elite in Cloud Computing & Market Analytics (IIT KGP)
-- ⚡ CTF enthusiast — forensics & binary exploitation
+
 
 <br clear="right"/>
 
@@ -176,9 +176,7 @@ int main() {
 | HackWiise — National Hackathon | Jan 2026 | **Top 30 / 2096 teams (Top 1.4%)** |
 | NPTEL Elite — Market Analytics (IIT KGP) | May 2026 | **87%** |
 | NPTEL Elite — Cloud Computing (IIT KGP) | Jan 2025 | **76%** |
-| IAT (IISER Aptitude Test) 2024 | 2024 | **Rank 659** |
-| NFSU (Nat. Forensic Science Univ.) | 2024 | **Rank 81** |
-| NEST 2024 | 2024 | **Rank 1334** |
+
 
 ---
 
