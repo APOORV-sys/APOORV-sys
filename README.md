@@ -50,7 +50,6 @@ int main() {
 - 🔭 Currently working on **AI-powered fraud detection** systems
 - 📚 NPTEL Elite in Cloud Computing & Market Analytics (IIT KGP)
 
-
 <br clear="right"/>
 
 ---
@@ -152,18 +151,42 @@ int main() {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/APOORV-sys/APOORV-sys/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/APOORV-sys/APOORV-sys/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/APOORV-sys/APOORV-sys/output/github-contribution-grid-snake.svg" width="95%"/>
+</picture>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=APOORV-sys&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="95%"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=APOORV-sys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APOORV-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=APOORV-sys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=3600"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=APOORV-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=3600"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=APOORV-sys&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=APOORV-sys&theme=tokyonight&hide_border=true&background=0d1117" />
 
 </div>
 
@@ -176,7 +199,6 @@ int main() {
 | HackWiise — National Hackathon | Jan 2026 | **Top 30 / 2096 teams (Top 1.4%)** |
 | NPTEL Elite — Market Analytics (IIT KGP) | May 2026 | **87%** |
 | NPTEL Elite — Cloud Computing (IIT KGP) | Jan 2025 | **76%** |
-
 
 ---
 
