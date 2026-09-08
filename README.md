@@ -28,7 +28,8 @@ public:
         return {
             "Fine-tuning LLMs with QLoRA",
             "RAG pipelines for healthcare AI",
-            "Building privacy-first PWAs"
+            "Building privacy-first PWAs",
+            "Workflow automation with n8n"
         };
     }
 
@@ -49,6 +50,7 @@ int main() {
 - 🏆 HackWiise National Finalist — **Top 30 / 2096 teams**
 - 🔭 Currently working on **AI-powered fraud detection** systems
 - 📚 NPTEL Elite in Cloud Computing & Market Analytics (IIT KGP)
+- ⚙️ Exploring **Generative AI workflow automation** with n8n (E&ICT Academy, IIT Kanpur)
 
 <br clear="right"/>
 
@@ -66,6 +68,9 @@ int main() {
 - 🧠 Ensemble model: **EfficientNetB0 + CNN + Swin Transformer**
 - 👁️ Detects **Diabetic Retinopathy** & **AMD** from retinal images
 - 🔍 **Grad-CAM** explainability for clinical transparency
+- 🧩 5 modules: **OptiScreen, PrescriptTracker, GlareGuard, Power Tracker, Medical Record Vault**
+- 📊 Built-in digital **Snellen Chart** & **Pseudo-Ishihara Test** — no costly proprietary fundus cameras needed
+- 💡 **GlareGuard** — automated 20-min blue light break reminders + screen-time tracking
 - 🔒 DPDP 2023 compliant, privacy-first
 - ⚙️ Stack: `React` `FastAPI` `Supabase` `TensorFlow` `OpenCV`
 
@@ -75,10 +80,10 @@ int main() {
 ### 🤖 Dia-Bot — LLM Diabetes Advisor
 > Fine-tuned Mistral 7B for evidence-based diabetes guidance
 
-- ⚡ **QLoRA (4-bit)** — 60% memory reduction
+- ⚡ **QLoRA (4-bit)** — ~60% memory reduction, runs on 8GB VRAM
 - 📄 RAG over 281-page "Standards of Care 2024" PDF
-- 🗂️ 500+ indexed chunks via **FAISS/Chroma**
-- 🔐 Synthetic dataset (100+ records) — fully HIPAA-safe
+- 🗂️ 500+ indexed chunks via **FAISS/Chroma** for sub-second retrieval
+- 🔐 Synthetic dataset (100+ records via Faker) — fully HIPAA/ethical-safe
 - ⚙️ Stack: `Mistral 7B` `LangChain` `HuggingFace` `FAISS` `PyTorch`
 
 </td>
@@ -106,6 +111,7 @@ int main() {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/HF_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🌐 Frontend & UI
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -119,6 +125,7 @@ int main() {
 ### ⚙️ Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### 🗄️ Databases
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -126,14 +133,17 @@ int main() {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🤖 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🎨 Design & Creative
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
@@ -145,6 +155,8 @@ int main() {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 </div>
@@ -199,6 +211,9 @@ int main() {
 | HackWiise — National Hackathon | Jan 2026 | **Top 30 / 2096 teams (Top 1.4%)** |
 | NPTEL Elite — Market Analytics (IIT KGP) | May 2026 | **87%** |
 | NPTEL Elite — Cloud Computing (IIT KGP) | Jan 2025 | **76%** |
+| NEST (National Entrance Screening Test) | 2024 | **Rank 1334** |
+| IAT (IISER Aptitude Test) | 2024 | **Rank 659** |
+| NFSU (National Forensic Science University) | 2024 | **Rank 81** |
 
 ---
 
@@ -209,6 +224,8 @@ int main() {
 `Python Essentials — VIT` &nbsp;|&nbsp; `Cloud Computing — NPTEL` &nbsp;|&nbsp; `Fundamentals of AI/ML — VIT`
 
 `Programming in Java — VIT` &nbsp;|&nbsp; `Market Analytics — NPTEL` &nbsp;|&nbsp; `MATLAB Onramp — MathWorks`
+
+`Advanced SQLite Queries — Belkasoft` &nbsp;|&nbsp; `Generative AI & Workflow Automation (n8n) — E&ICT Academy, IIT Kanpur`
 
 </div>
 
