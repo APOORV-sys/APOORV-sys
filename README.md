@@ -177,16 +177,6 @@ int main() {
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=APOORV-sys&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="95%"/>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
